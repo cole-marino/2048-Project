@@ -7,6 +7,4 @@ IMPORTANT CONTEXT:
     It should be noted that this is my first program with such an amount
     of files, and at the time I did not know how to fully manage it
     considering that this was such an early project (being 4 years ago).
-
-Program Information:
     
